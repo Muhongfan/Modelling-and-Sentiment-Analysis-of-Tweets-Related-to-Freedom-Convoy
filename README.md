@@ -1,4 +1,4 @@
-# NLP_pro
+# Modelling and Sentiment Analysis of Tweets Related to Freedom Convoy
 
 The Freedom Convoy was a truck driver protest that took place in Ottawa, the capital of Canada. More than 150,000 reviews have been posted on the Reddit Freedom Convoy thread. A sentiment analysis study on these reviews could help people understand the emotions and opinions towards this activity on the internet. To achieve this, This repository first utilized a pre-trained Tweet BERT model to classify the textual data into three classes: positive, negative, and neutral. Next,  performed feature engineering and trained CNN models on the provided dataset.
 
